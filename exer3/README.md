@@ -14,7 +14,7 @@ The API has the following endpoints
 ## Installation and Running of the API 
 
 1. Clone the repository
-    Open your terminal in your desired directory and run the following command
+    - Open your terminal in your desired directory and run the following command
     ```
     git clone https://github.com/CS125-2nd-sem-2025/ENRIQUEZ.git
     cd exer3
