@@ -18,6 +18,7 @@ The API has the following endpoints
       
    ```
     git clone https://github.com/CS125-2nd-sem-2025/ENRIQUEZ.git
+    cd ENRIQUEZ
     cd exer3
     ```
 
@@ -27,7 +28,7 @@ The API has the following endpoints
 
 3. Activate the virtual environment 
    Run the the following command in your terminal. Make sure exer3 is the directory:
-   - For Windows CMD: `.venv/Scripts/activat`
+   - For Windows CMD: `.venv/Scripts/activate`
    - For Linux, macOS: `source .venv/bin/activate`
 
 4. Install the dependencies
@@ -47,7 +48,7 @@ The API has the following endpoints
 
 ## Documentation
 
-If you want to see the documentation and try using the endpoints without typing links in step 6 in your browser, you can open the SwaggerUI documentation builtin by fastAPI. In your browser, type `http://127.0.0.1:8000/docs`.
+If you want to see the documentation and try using the endpoints without typing links in step 6 in your browser when running the API, you can open the SwaggerUI documentation builtin by fastAPI. In your browser, type `http://127.0.0.1:8000/docs`.
 
 
 
